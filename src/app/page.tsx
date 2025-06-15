@@ -27,7 +27,7 @@ export default function HomePage() {
       {/* Hero Section */}
       <section className="relative text-center py-20 md:py-32 rounded-xl overflow-hidden bg-gradient-to-br from-primary/30 via-background to-background">
         <Image 
-          src="src/components/images/p7.jpg" 
+          src="https://i.ibb.co/rR71Zn6s/p7.png" 
           alt="Indian football stadium" 
           layout="fill" 
           objectFit="cover" 
