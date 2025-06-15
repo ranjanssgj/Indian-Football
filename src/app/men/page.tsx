@@ -11,7 +11,7 @@ const menSections = [
     description: "Explore the tournaments and qualifications our Men's National Team participates in.",
     href: "/competitions/men/national-team",
     icon: Shield,
-    image: "https://placehold.co/600x400.png",
+    image: "https://i.ibb.co/LD1GN33X/MNT.jpg",
     imageHint: "team celebration"
   },
   {
@@ -19,7 +19,7 @@ const menSections = [
     description: "Discover inter-state championships like the Santosh Trophy and their significance.",
     href: "/competitions/men/state",
     icon: Trophy,
-    image: "https://placehold.co/600x400.png",
+    image: "https://i.ibb.co/whtSs3zz/MNS.jpg",
     imageHint: "trophy presentation"
   },
   {
@@ -27,7 +27,7 @@ const menSections = [
     description: "Follow top-tier club football including the ISL, I-League, and Super Cup.",
     href: "/competitions/men/club",
     icon: Users,
-    image: "https://placehold.co/600x400.png",
+    image: "https://i.ibb.co/WWKGvs6y/MNC.jpg",
     imageHint: "football action"
   },
 ];
