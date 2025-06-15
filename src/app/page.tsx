@@ -27,7 +27,7 @@ export default function HomePage() {
       {/* Hero Section */}
       <section className="relative text-center py-20 md:py-32 rounded-xl overflow-hidden bg-gradient-to-br from-primary/30 via-background to-background">
         <Image 
-          src="https://placehold.co/1200x600.png" 
+          src="src/components/images/p7.jpg" 
           alt="Indian football stadium" 
           layout="fill" 
           objectFit="cover" 
@@ -80,12 +80,12 @@ export default function HomePage() {
       </section>
 
       {/* Indian Football in the News Section */}
-      <section id="news-summarizer" className="py-12">
+      {/* <section id="news-summarizer" className="py-12">
          <h2 className="font-headline text-3xl md:text-4xl font-bold text-center mb-12 text-primary">
           Indian Football in the News
         </h2>
         <NewsSummarizer />
-      </section>
+      </section> */}
 
       {/* Quick Links Section */}
       <section id="quick-links">
