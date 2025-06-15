@@ -80,12 +80,12 @@ export default function HomePage() {
       </section>
 
       {/* Indian Football in the News Section */}
-      <section id="news-summarizer" className="py-12">
+      {/* <section id="news-summarizer" className="py-12">
          <h2 className="font-headline text-3xl md:text-4xl font-bold text-center mb-12 text-primary">
           Indian Football in the News
         </h2>
         <NewsSummarizer />
-      </section>
+      </section> */}
 
       {/* Quick Links Section */}
       <section id="quick-links">
