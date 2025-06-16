@@ -1,5 +1,5 @@
-# Firebase Studio
+A site featuring Indian Football. Bascially a centralised website displaying information for Rokies. 
 
-This is a NextJS starter in Firebase Studio.
+I have used firebase for main code generation, and then tweaking the custom inputs by myself. #Firebase
 
-To get started, take a look at src/app/page.tsx.
+New Feature announcement will be done here.
